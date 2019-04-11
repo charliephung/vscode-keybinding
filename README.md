@@ -167,6 +167,26 @@
   {
     "key": "ctrl+d ctrl+left",
     "command": "deleteAllLeft"
+  },
+  {
+    "key": "ctrl+numpad_add",
+    "command": "-workbench.action.zoomIn"
+  },
+  {
+    "key": "ctrl+numpad_subtract",
+    "command": "-workbench.action.zoomOut"
+  },
+  {
+    "key": "ctrl+numpad_subtract",
+    "command": "workbench.action.closeActiveEditor"
+  },
+  {
+    "key": "ctrl+k ctrl+down",
+    "command": "-workbench.action.closeActiveEditor"
+  },
+  {
+    "key": "ctrl+numpad_add",
+    "command": "workbench.action.newGroupRight"
   }
 ]
 ```
