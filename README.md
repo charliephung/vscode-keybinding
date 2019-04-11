@@ -1,4 +1,6 @@
 // Place your key bindings in this file to override the defaultsauto[]
+
+```javascript
 [
   {
     "key": "ctrl+s",
@@ -167,3 +169,4 @@
     "command": "deleteAllLeft"
   }
 ]
+```
